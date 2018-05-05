@@ -17,13 +17,11 @@
   import 'swiper/dist/css/swiper.css'
 
   export default {
-    name: 'swipe',
     props: {
       lists: {
         type: Array,
         require: true
-      },
-      name: {}
+      }
     },
     mounted() {
       this.init()
