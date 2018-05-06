@@ -3,7 +3,7 @@
 ## 商城首页
 ![youzan-home](https://github.com/zouyg/youzan/blob/master/screenshots/youzan-home.png)
 + 使用mint-ui infinityScroll插件实现下拉加载功能
-+ 将轮播图抽离成一个组件，引入swiper插件实现轮播效果
++ 将轮播图抽离成一个组件，引入swiper插件实现轮播效果
 + 底部导航条抽出来作为组件
 
 ## 商品分类页
